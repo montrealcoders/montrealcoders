@@ -1,6 +1,8 @@
-# Montreal
+# Montreal 👨🏽‍💻
 
 Página do GitHub do Grupo Montreal.
+
+![Montreal](/images/CapaGithub.png)
 
 # Quem Somos
 
